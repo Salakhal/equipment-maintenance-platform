@@ -105,7 +105,7 @@ L'application communique avec une API REST sécurisée (Node.js + JWT) et une ba
 #### 1. Cloner le projet
 
 ```bash
-git clone https://github.com/votre-username/maintenance-pro-android.git
+git clone https://github.com/Salakhal/equipment-maintenance-platform.git
 cd maintenance-pro-android
 ```
  ## 2. Configurer le backend
