@@ -153,25 +153,31 @@ object Constants {
 
 ---
 
-## 8. 👨‍💻 Auteur
+
+##  Remerciements
+
+- À l'encadrant pour son accompagnement
+- Aux développeurs des bibliothèques open source utilisées
+
+---
+
+
+## 8.  Auteur
 
 **Étudiant** : LAKHAL SALMA
+
 **Établissement** : ENS Marrakech - Département Informatique  
+
 **Année universitaire** : 2025/2026  
+
 **Encadrant** : Pr. Mohamed LACHGAR
+
 
 ---
 
 ## 📄 Licence
 
 Ce projet est développé à des fins pédagogiques dans le cadre d'un projet de fin d'études.
-
----
-
-##  Remerciements
-
-- À l'encadrant pour son accompagnement
-- Aux développeurs des bibliothèques open source utilisées
 
 ---
 
