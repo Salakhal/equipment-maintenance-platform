@@ -80,11 +80,26 @@ L'application communique avec une API REST sécurisée (Node.js + JWT) et une ba
 
 ### Écran de connexion
 
+
+<img width="1891" height="888" alt="image" src="https://github.com/user-attachments/assets/3284b0f3-9341-4804-8c9e-0d384797ca38" />
+
+
+
 ### Liste des tickets
 
-### Création d'un ticket
+
+<img width="1908" height="903" alt="image" src="https://github.com/user-attachments/assets/2f13f7dc-057f-4b9f-94fd-f751e54123fb" />
+
+
+
+
+
 
 ### Détail d'un ticket avec historique
+
+
+<img width="1045" height="784" alt="image" src="https://github.com/user-attachments/assets/de9553fd-cc86-402a-b707-00b51568174e" />
+
 
 
 ## 6. ⚙️ Installation et exécution
