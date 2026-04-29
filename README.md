@@ -143,7 +143,7 @@ object Constants {
 
 ---
 
-### 👥 Comptes de test
+### 6.Comptes de test
 
 | Rôle | Email | Mot de passe |
 |------|-------|--------------|
@@ -154,15 +154,23 @@ object Constants {
 ---
 
 
-##  Remerciements
+## 7. Résumé
+
+| Fichier | Contenu |
+|---------|---------|
+| `DATABASE.md` | Schéma complet des 4 tables |
+| `README.md` | Présentation du projet |
+
+---
+
+## 8. Remerciements
 
 - À l'encadrant pour son accompagnement
 - Aux développeurs des bibliothèques open source utilisées
 
 ---
 
-
-## 8.  Auteur
+## .  Auteur
 
 **Étudiant** : LAKHAL SALMA
 
