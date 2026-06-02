@@ -117,8 +117,6 @@ Enregistre l'historique des actions sur chaque ticket.
 
 ---
 
-## 🔗 Relations entre les tables
-# ?????
 
 
 ---
